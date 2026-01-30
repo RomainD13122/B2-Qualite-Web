@@ -207,6 +207,7 @@
       "Vérifier que chaque élément optgroup est doté d'un attribut label associant un libellé pertinent au groupe d'options concern"
     ],
     "screenshotsSources": []
+<<<<<<< HEAD
   },
   {
     "id": 131,
@@ -464,5 +465,7 @@
       "Vérifier que le lien cliqué a changé d'aspect visuel (couleur)."
     ],
     "screenshotsSources": []
+=======
+>>>>>>> 77fe9cba95cc798351172cb8f4e222771e4a30d4
   }
 ]
